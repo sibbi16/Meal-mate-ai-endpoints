@@ -32,7 +32,6 @@ An intelligent recipe generation API powered by Google's Gemini AI. This FastAPI
 1. **Clone the repository**
    ```bash
    git clone git@github.com:sibbi16/Meal-mate-ai-endpoints.git
-   cd recipebackendaiapi
    ```
 
 2. **Create a virtual environment**
